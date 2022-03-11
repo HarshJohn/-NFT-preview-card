@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/HarshJohn/-NFT-preview-card.git)
+- Live Site URL: [Website](https://ntfpreviewcardchallenge-harshjohn.netlify.app/)
 
 ## My process
 
